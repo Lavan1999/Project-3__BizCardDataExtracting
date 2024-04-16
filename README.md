@@ -1,5 +1,4 @@
-# BizCardX-Extracting-Business-Card-Data-with-OCR
-BizCard: Extracting Business Card Data with OCR
+# BizCard: Extracting Business Card Data with OCR
 # Overview
 BizCard is a Python-based project aimed at extracting information from business cards using Optical Character Recognition (OCR) technology. The extracted data is then organized and stored in a PostgreSQL database, allowing users to manage and retrieve information from various business cards.
 
