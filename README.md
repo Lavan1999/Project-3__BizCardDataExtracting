@@ -35,6 +35,3 @@ BizCard is a Python-based project aimed at extracting information from business 
 ![biz2](https://github.com/Lavan1999/Project-3__BizCardDataExtracting/assets/152668558/2165e7d5-3128-45c3-afe4-f8c1253968cc)
 
 ![biz1](https://github.com/Lavan1999/Project-3__BizCardDataExtracting/assets/152668558/3d665add-1736-4db1-b38a-bfcedcb39f46)
-
-![Screenshot (239)](https://github.com/Lavan1999/Project-3__BizCardDataExtracting/assets/152668558/8489ed04-ca90-40fb-af30-6ac67847a53c)
-![Screenshot (240)](https://github.com/Lavan1999/Project-3__BizCardDataExtracting/assets/152668558/2ffe2700-190b-4daf-94d7-164be9ffec83)
