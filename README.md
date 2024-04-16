@@ -31,3 +31,5 @@ BizCard is a Python-based project aimed at extracting information from business 
 - Enhance OCR accuracy and robustness for improved extraction of text from business card images.
 - Add support for additional languages and localization options.
 - Integrate with external APIs for additional functionality, such as geocoding addresses or retrieving company information.
+![Screenshot (236)](https://github.com/Lavan1999/Project-3__BizCardDataExtracting/assets/152668558/d8324fbd-32d0-40f4-9393-b845480cbf23)
+![Screenshot (238)](https://github.com/Lavan1999/Project-3__BizCardDataExtracting/assets/152668558/c09c0eb8-c30f-4537-945f-bc0b752f5fc2)
